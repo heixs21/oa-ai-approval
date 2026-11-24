@@ -1,0 +1,8 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+openai>=1.40.0
+cryptography>=41.0.0
+# 以下三个用于「附件上传失败时本地抽文本」的兜底，可选
+pypdf>=4.0.0
+python-docx>=1.1.0
+openpyxl>=3.1.0
